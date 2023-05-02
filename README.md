@@ -1,31 +1,4 @@
-# cavern-unreal-template
-
-<!-----
-
-You have some errors, warnings, or alerts. If you are using reckless mode, turn it off to see inline alerts.
-* ERRORs: 0
-* WARNINGs: 0
-* ALERTS: 50
-
-Conversion time: 11.819 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β34
-* Tue May 02 2023 12:08:47 GMT-0700 (PDT)
-* Source doc: CAVERN Documentation MD
-* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
-
------>
-
+# Cavern-Unreal-Template
 
 **C.A.V.E.R.N**
 
@@ -44,7 +17,7 @@ Cave Automatic Virtual Environment RouNd (aka. CAVERN) is a 270 degree circular 
 
 This documentation covers how to set up the Unreal Engine environment to utilize the CAVERN. Along with guides on how to set up the Vive Trackers to use in Unreal Engine and CAVERN.
 
-<h2 id="before-starting-checklist">Before Starting -Checklist</h2>
+<h2 id="before-starting-checklist">Before Starting - Checklist</h2>
 
 
 You shouldn’t do anything on this step, just let you know the background context of the nDisplay system. All the applications mentioned below can be found under the task bar.
@@ -60,8 +33,7 @@ You shouldn’t do anything on this step, just let you know the background conte
 ![alt_text](images/image2.png "image_tooltip")
 
 2. Stereo Test Software: This software is used to determine whether stereoscopic is working properly.  
-
-        In monitor it would look like this
+In monitor it would look like this
 
 
         
@@ -69,17 +41,15 @@ You shouldn’t do anything on this step, just let you know the background conte
 
 
 
-        If projector screen, it would look like this
+If projector screen, it would look like this
 ![alt_text](images/image4.jpg "image_tooltip")
 
-
-
-        You need to wear 3D glasses to check, you will find your right eye seeing a red screen and your left eye seeing a blue screen (or the other way around). 
+You need to wear 3D glasses to check, you will find your right eye seeing a red screen and your left eye seeing a blue screen (or the other way around). 
 
 4. TigerVNC: Due to limitation of the graphic ports, we can only use remote VNC software to use the computer. 
     1. VNC connection password is: warpme
 
-How to run a demo with Cavern_Templete
+<h2 id="how-to-run-a-demo-with-cavern-template">How to run a demo with Cavern_Templete</h2>
 
 
 
@@ -119,7 +89,9 @@ How to run a demo with Cavern_Templete
 
 
 
-4. Set Ndisplay config(Add Device -> ndisplay)
+4. Set Ndisplay config (Add Device -> ndisplay)
+
+
 ![alt_text](images/image11.png "image_tooltip")
 
 
@@ -153,7 +125,7 @@ The render API have to be DX11 to use stereoscopic(don’t know the reason!), an
 
 
 
-8. (If the window isn’t open with full screen) Press alt and space and use the arrow key to select ‘maximize’ to solve this (or alt+space, and then hit x on the keyboard). 
+8. If the window isn’t open with full screen, press alt and space and use the arrow key to select ‘maximize’ to solve this (or alt+space, and then hit x on the keyboard). 
 
 
 ![alt_text](images/image16.jpg "image_tooltip")
@@ -196,6 +168,7 @@ You wouldn’t have an Audio because nDisplay systems in Unreal don't have a cam
 Below is the setup for how to pair and use HTC Vive Trackers w/wo Hyper Blasters.
 
 This documentation is updated and compatible with **Unreal Engine 5.1.1, [Vive Tracker 3.0](https://www.vive.com/us/accessory/tracker3/)**, and **[Hyperkin Hyper Blaster](https://hyperkinstore.com/hyper-blaster-for-htc-vive-tracker-hyperkin/)** up until April 2023.
+
 ![alt_text](images/image21.png "image_tooltip")
 
 
@@ -209,7 +182,7 @@ If you wish to use the Vive Tracker with the Hyper Blaster, install the Tracker 
 
 **Warning: **Don’t assume Vive Tracker 2.0 or 1.0 will work with this setup.
 
-HMD Setup
+<h3 id="hmd-setup">HMD Setup</h3>
 
 The initial tracker setup within the CAVERN included connecting to a Valve Index headset in order to use the Index controllers. 
 
