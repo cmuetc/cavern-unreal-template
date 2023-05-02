@@ -6,13 +6,21 @@ _By. Patrick Cheng ‘22’, Pearson(Yiqu) Zhu ‘22’_
 
 
 [Summary](#summary)
+
 [Before Starting - Checklist](#before-starting-checklist)
+
 [How to Run Demo with Cavern Template](#how-to-run-a-demo-with-cavern-template)
+
 [How to Enable Stereoscopic](#how-to-enable-stereoscopic)
+
 [Cavern Audio Setup](#cavern-audio-setup)
+
 [Vive Tracker Setup](#vive-tracker-setup)
+
 [LivelinkXR Setup](#livelinkxr-setup)
+
 [SteamVR Setup](#steamvr-setup)
+
 [Tracker Pogo Pin Limitations](#trakcer-pogo-pin-limitations)
 
 
