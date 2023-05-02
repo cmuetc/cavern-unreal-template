@@ -35,10 +35,7 @@ You shouldn’t do anything on this step, just let you know the background conte
 2. Stereo Test Software: This software is used to determine whether stereoscopic is working properly.  
 In monitor it would look like this
 
-![alt_text]{
-   width:150px;
-   height:100px;
-}(images/image3.png "image_tooltip")
+![alt_text](images/image3.png "image_tooltip")
 
 If projector screen, it would look like this
 ![alt_text](images/image4.jpg "image_tooltip")
