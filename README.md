@@ -24,23 +24,27 @@ You shouldn’t do anything on this step, just let you know the background conte
 
 1. Mosaic & Window Setting: You need to make sure the system setting and Nvidia Mosaic is correctly configured, you can talk with steve to double check.
 2. Immersive Display Pro: This software can merge three monitors into one big screen. You need to launch this application before starting the CAVERN.
+
 ![alt_text](images/image1.png "image_tooltip")
 
 3. Stereo Setup(if needed): this can make sure under 3D mode the eyes isn’t flipped and stereo system is working 
 1. Basic setting for Nvidia Mosaic
+
 ![alt_text](images/image2.png "image_tooltip")
 
 2. Stereo Test Software: This software is used to determine whether stereoscopic is working properly.  
 In monitor it would look like this
 
-
-        
-![alt_text](images/image3.png "image_tooltip")
-
-
+![alt_text](images/image3.png "image_tooltip"){
+   width:150px;
+   height:100px;
+}
 
 If projector screen, it would look like this
-![alt_text](images/image4.jpg "image_tooltip")
+![alt_text](images/image4.jpg "image_tooltip"){
+   width:150px;
+   height:100px;
+}
 
 You need to wear 3D glasses to check, you will find your right eye seeing a red screen and your left eye seeing a blue screen (or the other way around). 
 
@@ -126,7 +130,10 @@ The render API have to be DX11 to use stereoscopic(don’t know the reason!), an
 8. If the window isn’t open with full screen, press alt and space and use the arrow key to select ‘maximize’ to solve this (or alt+space, and then hit x on the keyboard). 
 
 
-![alt_text](images/image16.jpg "image_tooltip")
+![alt_text](images/image16.jpg "image_tooltip"){
+   width:150px;
+   height:100px;
+}
 
 
 <h2 id="how-to-enable-stereoscopic">How to Enable stereoscopic</h2>
@@ -167,7 +174,10 @@ Below is the setup for how to pair and use HTC Vive Trackers w/wo Hyper Blasters
 
 This documentation is updated and compatible with **Unreal Engine 5.1.1, [Vive Tracker 3.0](https://www.vive.com/us/accessory/tracker3/)**, and **[Hyperkin Hyper Blaster](https://hyperkinstore.com/hyper-blaster-for-htc-vive-tracker-hyperkin/)** up until April 2023.
 
-![alt_text](images/image21.png "image_tooltip")
+![alt_text](images/image21.png "image_tooltip"){
+   width:150px;
+   height:100px;
+}
 
 
 If you wish to use the Vive Tracker with the Hyper Blaster, install the Tracker on the Blaster.
@@ -178,7 +188,7 @@ If you wish to use the Vive Tracker with the Hyper Blaster, install the Tracker 
 
 (Image of Vive Tracker 3.0, center triangle is black)
 
-**Warning: **Don’t assume Vive Tracker 2.0 or 1.0 will work with this setup.
+**Warning: ** Don’t assume Vive Tracker 2.0 or 1.0 will work with this setup.
 
 <h3 id="hmd-setup">HMD Setup</h3>
 
@@ -330,9 +340,15 @@ Now open SteamVR, this configuration only needs to be completed once and can be 
 **Warning**: You can only have two trackers to have the same pogo pin inputs, for details about having 3 or more people using input on the Vive Tracker please follow [Tracker Pogo Pin Limitations](#tracker-pogo-pin-limitations).
 
 
-![alt_text](images/image38.png "image_tooltip")
+![alt_text](images/image38.png "image_tooltip"){
+   width:150px;
+   height:100px;
+}
 
-![alt_text](images/image39.png "image_tooltip")
+![alt_text](images/image39.png "image_tooltip"){
+   width:150px;
+   height:100px;
+}
 
 
 
