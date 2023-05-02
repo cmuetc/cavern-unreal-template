@@ -1,6 +1,4 @@
-# Cavern-Unreal-Template
-
-**C.A.V.E.R.N**
+# Cavern Unreal Template
 
 _By. Patrick Cheng ‘22’, Pearson(Yiqu) Zhu ‘22’_
 
