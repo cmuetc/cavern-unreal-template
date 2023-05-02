@@ -2,7 +2,7 @@
 
 _By. Patrick Cheng ‘22’, Pearson(Yiqu) Zhu ‘22’_
 
-*Table of Contents*
+<h2 id="toc">Table of Contents</h2>
 
 
 [TOC]
