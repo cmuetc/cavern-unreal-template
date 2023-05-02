@@ -5,7 +5,15 @@ _By. Patrick Cheng ‘22’, Pearson(Yiqu) Zhu ‘22’_
 <h2 id="toc">Table of Contents</h2>
 
 
-[TOC]
+[Summary](#summary)
+[Before Starting - Checklist](#before-starting-checklist)
+[How to Run Demo with Cavern Template](#how-to-run-a-demo-with-cavern-template)
+[How to Enable Stereoscopic](#how-to-enable-stereoscopic)
+[Cavern Audio Setup](#cavern-audio-setup)
+[Vive Tracker Setup](#vive-tracker-setup)
+[LivelinkXR Setup](#livelinkxr-setup)
+[SteamVR Setup](#steamvr-setup)
+[Tracker Pogo Pin Limitations](#trakcer-pogo-pin-limitations)
 
 
 <h2 id="summary">Summary</h2>
@@ -165,7 +173,7 @@ Below is the setup for how to pair and use HTC Vive Trackers w/wo Hyper Blasters
 
 This documentation is updated and compatible with **Unreal Engine 5.1.1, [Vive Tracker 3.0](https://www.vive.com/us/accessory/tracker3/)**, and **[Hyperkin Hyper Blaster](https://hyperkinstore.com/hyper-blaster-for-htc-vive-tracker-hyperkin/)** up until April 2023.
 
-![alt_text](images/image21.png "image_tooltip"){
+![alt_text](images/image21.png "image_tooltip")
 
 
 If you wish to use the Vive Tracker with the Hyper Blaster, install the Tracker on the Blaster.
@@ -176,7 +184,7 @@ If you wish to use the Vive Tracker with the Hyper Blaster, install the Tracker 
 
 (Image of Vive Tracker 3.0, center triangle is black)
 
-**Warning: ** Don’t assume Vive Tracker 2.0 or 1.0 will work with this setup.
+**Warning** Don’t assume Vive Tracker 2.0 or 1.0 will work with this setup.
 
 <h3 id="hmd-setup">HMD Setup</h3>
 
