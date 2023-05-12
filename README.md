@@ -184,7 +184,7 @@ This documentation is updated and compatible with **Unreal Engine 5.1.1, [Vive T
 ![alt_text](images/image21.png "image_tooltip")
 
 
-If you wish to use the Vive Tracker with the Hyper Blaster, install the Tracker on the Blaster.
+If you wish to use the Vive Tracker with the Hyper Blaster, install the Tracker on the Blaster. **Make sure the pin is aligned and the tracker is screwed tight to the gun.**
 
 
 ![alt_text](images/image22.png "image_tooltip")
